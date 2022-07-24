@@ -2,8 +2,8 @@
 //  StyleGuide.swift
 //  AAGameOfLife
 //
-//  Created by Arlind Aliu on 11.01.20.
-//  Copyright © 2020 Arlind Aliu. All rights reserved.
+//   Created by Arlind Aliu on 23.07.22.
+//  Copyright © 2022 Arlind Aliu. All rights reserved.
 //
 
 import UIKit
