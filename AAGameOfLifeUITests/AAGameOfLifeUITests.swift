@@ -2,8 +2,8 @@
 //  AAGameOfLifeUITests.swift
 //  AAGameOfLifeUITests
 //
-//  Created by Arlind Aliu on 18.12.18.
-//  Copyright © 2018 Arlind Aliu. All rights reserved.
+//   Created by Arlind Aliu on 23.07.22.
+//  Copyright © 2022 Arlind Aliu. All rights reserved.
 //
 
 import XCTest
